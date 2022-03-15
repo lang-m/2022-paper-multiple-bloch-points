@@ -1,1 +1,1 @@
-# 2022-paper-multiple-bloch-points
+# Bloch points in nanostrips
