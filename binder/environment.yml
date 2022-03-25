@@ -1,0 +1,11 @@
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.9
+  - matplotlib=3.4
+  - numpy=1.22
+  - pandas=1.4
+  - tqdm=4.62.3
+  - ubermag=0.61.0
+
