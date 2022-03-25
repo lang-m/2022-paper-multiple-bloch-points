@@ -1,6 +1,6 @@
 # Bloch points in nanostrips
 
-Martin Lang<sup>1,2</sup>, Marijan Beg<sup>1,3</sup>, Ondrej Hovorka<sup>1<sup>, and Hans Fangohr<sup>1,2,4</sup>
+Martin Lang<sup>1,2</sup>, Marijan Beg<sup>1,3</sup>, Ondrej Hovorka<sup>1</sup>, and Hans Fangohr<sup>1,2,4</sup>
 
 <sup>1</sup> *Faculty of Engineering and Physical Sciences, University of Southampton, Southampton, SO17 1BJ, United Kingdom*  
 <sup>2</sup> *Max Planck Institute for the Structure and Dynamics of Matter, Luruper Chaussee 149, 22761 Hamburg, Germany*  
