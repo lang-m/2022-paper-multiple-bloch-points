@@ -10,7 +10,7 @@ Martin Lang<sup>1,2</sup>, Marijan Beg<sup>1,3</sup>, Ondrej Hovorka<sup>1</sup>
 | Description | Badge |
 | --- | --- |
 | Paper | Coming soon ... |
-| Preprint | Coming soon ... |
+| Preprint | [![Preprint](https://img.shields.io/badge/arxiv-2203.13689-green)](https://arxiv.org/abs/2203.13689) |
 | Binder | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lang-m/2022-paper-multiple-bloch-points/HEAD) |
 | License | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) |
 | DOI | Coming soon … |
