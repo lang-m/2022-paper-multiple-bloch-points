@@ -42,7 +42,7 @@ refer to the [LICENSE](LICENSE) file.
 
 ## How to cite
 
-Coming soon ...
+Lang, Martin, et al. "Bloch points in nanostrips." arXiv preprint arXiv:2203.13689 (2022).
 
 ## Acknowlegdements
 
