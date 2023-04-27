@@ -23,5 +23,6 @@ jobs:
         with:
           auto-update-conda: true
           environment-file: binder/environment.yml
+      - run: conda list
       - name: Test notebooks
         run: pytest -v --nbval-lax notebooks
