@@ -1,0 +1,27 @@
+name: tests
+
+on:
+  push:
+  schedule:
+    - cron: '0 0 1 * *'  # once per month
+  workflow_dispatch:
+
+env:
+  PYTEST_ADDOPTS: "--color=yes"
+
+jobs:
+  workflow:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        shell: bash -l {0}
+    steps:
+      - name: Initialisation
+        uses: actions/checkout@v2
+      - name: Set up environment
+        uses: conda-incubator/setup-miniconda@v2
+        with:
+          auto-update-conda: true
+          environment-file: binder/environment.yml
+      - name: Test notebooks
+        run: pytest -v --nbval-lax notebooks
