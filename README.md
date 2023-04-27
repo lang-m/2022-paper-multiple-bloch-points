@@ -41,7 +41,7 @@ refer to the [LICENSE](LICENSE) file.
 
 ## How to cite
 
-Lang, Martin, et al. "Bloch points in nanostrips." *arXiv preprint arXiv:2203.13689* (2022).
+M. Lang, M. Beg, O. Hovorka and H. Fangohr. Bloch points in nanostrips. [*Scientific Reports* **13**, 6910](https://www.nature.com/articles/s41598-023-33998-z) (2023).
 
 ## Acknowlegdements
 
