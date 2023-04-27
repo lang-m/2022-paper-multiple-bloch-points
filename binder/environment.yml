@@ -8,4 +8,5 @@ dependencies:
   - pandas=1.4
   - tqdm=4.62.3
   - ubermag=0.61.2
+  - nbval  # required for CI
 
