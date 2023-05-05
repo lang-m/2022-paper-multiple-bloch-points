@@ -10,7 +10,7 @@ Martin Lang<sup>1,2</sup>, Marijan Beg<sup>1,3</sup>, Ondrej Hovorka<sup>1</sup>
 | Description | Badge |
 | --- | --- |
 | Paper | [![https://www.nature.com/articles/s41598-023-33998-z](https://img.shields.io/badge/Scientific%20Reports-13%2C%206910%20(2023)-green)](https://www.nature.com/articles/s41598-023-33998-z) |
-| Paper DOI | [![10.1038/s41598-023-33998-z]()](https://doi.org/10.1038/s41598-023-33998-z)
+| Paper DOI | [![10.1038/s41598-023-33998-z](https://img.shields.io/badge/DOI-10.1038%2Fs41598--023--33998--z-blue)](https://doi.org/10.1038/s41598-023-33998-z)
 | Preprint | [![arXiv:2203.13689](https://img.shields.io/badge/arxiv-2203.13689-green)](https://arxiv.org/abs/2203.13689) |
 | Binder | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lang-m/2022-paper-multiple-bloch-points/HEAD) |
 | License | [![BSD-3-Clause](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) |
